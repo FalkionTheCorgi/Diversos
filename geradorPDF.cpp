@@ -1,6 +1,6 @@
 // basic file operations
 // Desenvolvido por Manollo Castro de Pinho Martinez
-
+// Gerador de tabela MPDF em c++ que gera um arquivo de nome example.php contendo Programação Orientada a Objeto, CSS.
 
 #include <iostream>
 #include <fstream>
